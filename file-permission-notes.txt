@@ -1,0 +1,26 @@
+file permissions
+---------------
+		value	symbol
+read		4	r
+write		2	w
+execute 	1	x
+
+unix users		symbol
+----------
+user (owner)		u
+group			g
+others			o
+
+
+unix file persmissions  (0-7)
+=======================
+	octal	symbol
+	7	rwx
+	6	rw-
+	5	r-x
+	4	r--
+	3	-wx
+	2	-w-
+	1	--x
+	0	---
+
